@@ -33,4 +33,6 @@ test('adds 1 + 2 to equal to 3', () => {
 
 - A unit test is a way of testing a unit - the smallest piece of code that can be logically isolated in a system. In most programming languages, that is a function, a subroutine, a method or property.
 
-10. 
+10. To run test `npm test`
+
+11. For getting coverage report add `--coverage` in `package.json` file beside `test` script
